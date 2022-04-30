@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\bin\Debug\Aula40.exe.config
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\bin\Debug\Aula40.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\bin\Debug\Aula40.pdb
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.Form1.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula40\obj\Debug\Aula40.pdb
